@@ -27,14 +27,14 @@
             android:persistent="false" />
 
     <!-- None to Silent mode -->
-    <com.android.settings.lpop.preference.SystemSettingSwitchPreference
+    <com.android.settings.infusion.preference.SystemSettingSwitchPreference
         android:key="none_is_silent"
         android:title="@string/none_is_silent_title"
         android:summary="@string/none_is_silent_summary" />
 
     <!-- Whether to allow notification lights in zen mode -->
     <!-- This is set to true to match the default state in Android 5.1 -->
-    <com.android.settings.lpop.preference.SystemSettingSwitchPreference
+    <com.android.settings.infusion.preference.SystemSettingSwitchPreference
         android:key="allow_lights"
         android:title="@string/allow_lights_title"
         android:defaultValue="true" />

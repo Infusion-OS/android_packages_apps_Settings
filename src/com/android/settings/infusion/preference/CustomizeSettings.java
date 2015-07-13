@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.lpop.preference;
+package com.android.settings.infusion.preference;
 
 import android.app.ActivityManager;
 import android.content.Context;

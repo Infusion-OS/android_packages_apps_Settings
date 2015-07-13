@@ -79,7 +79,7 @@
         <dashboard-tile
                 android:id="@+id/customize_settings"
                 android:icon="@drawable/ic_settings_customize" 
-                android:fragment="com.android.settings.lpop.preference.CustomizeSettings"
+                android:fragment="com.android.settings.infusion.preference.CustomizeSettings"
                 android:title="@string/customize_settings_title"
                 />
 
