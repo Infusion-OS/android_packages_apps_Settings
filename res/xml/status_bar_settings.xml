@@ -28,7 +28,7 @@
             android:key="clock_style_pref"
             android:title="@string/status_bar_clock" />
 
-        <com.android.settings.infusion.preference.SystemSettingSwitchPreference
+        <SwitchPreference
             android:key="double_tap_sleep_gesture"
             android:title="@string/double_tap_to_sleep_title"
             android:summary="@string/double_tap_to_sleep_summary"
